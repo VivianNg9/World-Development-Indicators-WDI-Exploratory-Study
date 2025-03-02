@@ -19,7 +19,6 @@ The "World Development Indicators" dataset was examined and analyzed by the rese
 
 ### 1. Descriptive Analytics 
 #### 1.1. Variable Overview
-![Variable Overview](https://github.com/VivianNg9/World-Development-Indicators-WDI-Exploratory-Study/blob/main/image/Variables%20Overview%20.png)
 
 Several key variables in the dataset had missing data, raising concerns about their representativeness in predicting GDP per capita growth and economic development. Notably, electricity consumption data has been absent since 2015 despite its strong correlation with GDP, and health expenditure per capita was not recorded until 2000. Additionally, land area remained constant over time, while inflation exhibited significant fluctuations between 1989 and 1994.
 
